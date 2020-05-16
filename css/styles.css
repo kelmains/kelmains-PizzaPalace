@@ -165,8 +165,10 @@ td,th{
 #contactdetails h2{
   text-align: left;
 }
-.footer{
-  padding-top: 5%;
+footer{
+    display: block;
+    padding: 40px;
+    text-align: center; 
 }
 #addedprice{
   display: none;
